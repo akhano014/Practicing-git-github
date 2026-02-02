@@ -1,2 +1,2 @@
 # Practicing-git-github
-just the practice of git and github
+Just the practice of git and github Author-Ahtisham khan
